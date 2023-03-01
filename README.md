@@ -3,5 +3,4 @@
 ### Repositorio dedicado às atividades da faculdade
 
 - Lógica de Programação ✅
-- Portugol ✅
 - Java ✅
