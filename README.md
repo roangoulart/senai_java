@@ -1,4 +1,4 @@
-# Atividades de Análise e Desenvolvimento de Sistemas SENAI
+# Atividades de ADS SENAI
 
 ### Repositorio dedicado às atividades da faculdade
 
