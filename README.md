@@ -1,5 +1,7 @@
-### Atividades de Análise e Desenvolvimento de Sistemas SENAI
-## Repositorio dedicado às atividades da faculdade
+# Atividades de Análise e Desenvolvimento de Sistemas SENAI
+
+### Repositorio dedicado às atividades da faculdade
+
 - Lógica de Programação ✅
 - Portugol ✅
 - Java ✅
