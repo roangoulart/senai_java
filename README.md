@@ -1,2 +1,5 @@
-# senai_java
-Repositorio para armezar os execicios de java feitos em aula
+### Atividades de Análise e Desenvolvimento de Sistemas SENAI
+## Repositorio dedicado às atividades da faculdade
+- Lógica de Programação ✅
+- Portugol ✅
+- Java ✅
