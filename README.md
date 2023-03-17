@@ -1,6 +1,6 @@
-# Atividades de ADS SENAI - 2º ano
+# Atividades de ADS SENAI
 
-## Repositorio dedicado às atividades do 2º ano da faculdade
+## Repositorio dedicado às atividades da faculdade
 
 - Lógica de Programação ✅
 - Java ✅
